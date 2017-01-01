@@ -3,5 +3,10 @@
 }
 .loading{
 	width: 100%;
-	background-color: #B4B4B4;
+	background-color: #EEE;
+	height: 1em;
+}
+.loading-img{
+	width: 100%;
+	background-color: #EEE;
 }
